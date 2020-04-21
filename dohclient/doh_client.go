@@ -29,7 +29,7 @@ import (
 
 	"golang.org/x/sync/singleflight"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 
 	"github.com/miekg/dns"
 

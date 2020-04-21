@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 
 	netlist "github.com/IrineSistiana/net-list"
 

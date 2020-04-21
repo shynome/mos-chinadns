@@ -36,7 +36,7 @@ import (
 	"github.com/miekg/dns"
 
 	netlist "github.com/IrineSistiana/net-list"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 type upstream interface {
